@@ -1,11 +1,23 @@
-h1 {
-    color: aqua;
-    background-color: blue;
+header {
+    color:blueviolet;
+    background-color: aqua;
     text-align: center;
+
+
 }
 
 main {
-    background-color: lightgrey;
-    background-image:url('assignment/record.png');
-    background-repeat:repeat ;
+    background-color:lightgrey;
+    padding: 1em;
+    text-align: center;
+
+    
+}
+
+body {
+    background-image: url("record.png");
+    background-color: deepskyblue;
+    background-repeat:repeat;
+    margin: 0;
+    
 }
