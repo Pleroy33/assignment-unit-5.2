@@ -1,4 +1,11 @@
 h1 {
     color: aqua;
     background-color: blue;
+    text-align: center;
+}
+
+main {
+    background-color: lightgrey;
+    background-image:url('assignment/record.png');
+    background-repeat:repeat ;
 }
